@@ -1,5 +1,5 @@
 body {
-    background: rgb(146, 30, 161);
+    background: rgb(230, 131, 243);
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
@@ -9,7 +9,7 @@ body {
 }
 
 button {
-    background: rgb(74, 24, 211);
+    background: rgb(120, 76, 241);
     color: black;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
